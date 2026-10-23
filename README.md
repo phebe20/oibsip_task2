@@ -32,6 +32,4 @@ After creating the clusters, I examined the groups to understand their differenc
 
 The project helped me understand how clustering can be used to identify customer groups with different characteristics. These groups can help a business think about how to tailor its marketing and customer engagement strategies instead of treating every customer in exactly the same way.
 
-## Project File
-
-- customer_segmentation.ipynb — contains the data exploration, preparation, clustering analysis, visualisations, and findings.
+ 
